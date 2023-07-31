@@ -12,6 +12,15 @@ A aplicação consiste em realizar operações básicas de CRUD em departamentos
 - JavaFx
 - MySQL
 
+# Como executar o projeto
+
+## Back end
+Pré-requisitos: Java 17, JavaFX SDK e MySQL
+
+Criar arquivo db.properties e configurar com acesso ao seu MySQL
+
+Rodar a classe Main do projeto
+
 # Autor
 
 João Carlos Alves Corrêa
